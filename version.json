@@ -1,9 +1,9 @@
 {
-  "stable": "v1.3.0",
-  "stable_sha256": "ed4eaa968e1b60e853c116facbc8323c10950f581b75696efed69ba761babeef",
-  "stable_size": 3789440,
-  "prerelease": "v1.3.0",
-  "prerelease_sha256": "ed4eaa968e1b60e853c116facbc8323c10950f581b75696efed69ba761babeef",
-  "prerelease_size": 3789440,
+  "stable": "v1.3.1",
+  "stable_sha256": "45f5e3d0a7c74ad5a8f75cfc3f312c85c6987bc59be423beb6379f90f5c53e82",
+  "stable_size": 3789472,
+  "prerelease": "v1.3.1",
+  "prerelease_sha256": "45f5e3d0a7c74ad5a8f75cfc3f312c85c6987bc59be423beb6379f90f5c53e82",
+  "prerelease_size": 3789472,
   "url": "https://github.com/Ziopase/SpoolBalance-firmware/releases/latest"
 }
